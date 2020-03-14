@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(rgba(16, 0, 41, 0.753), rgba(0, 0, 0, 0.753)), url(images/bg-01.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.nav {
+    background-color: black;
+}
+.nav ul{
+    
+}
+.nav ul li{
+    color: white;
+    float: left;
+}
