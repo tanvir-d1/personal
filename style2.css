@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(27, 27, 27);
+    height: 900px;
+    background-attachment: fixed;
+}
+.nav-name{
+    font-size: 30px;
+}
+.portfolio-head{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+}
+.row{
+    margin-top: 40px;
+}
